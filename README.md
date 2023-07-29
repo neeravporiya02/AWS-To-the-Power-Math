@@ -1,7 +1,7 @@
 # AWS-To-the-Power-Math
 Design and build an end-to-end, fully functional math web application on AWS.
 
-This project is all thansk to Tiny Technical Tutorials
+This project is all thanks to Tiny Technical Tutorials <br/>
 https://www.youtube.com/watch?v=7m_q1ldzw0U&t=221s
 
 ## Five AWS services
